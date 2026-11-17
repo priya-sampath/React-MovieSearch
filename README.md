@@ -1,6 +1,6 @@
 # 🎬 Movie Search App
 
-A React movie search application powered by the **OMDB API**. Search for movies and series, filter by type, and page through results.
+A React movie search application powered by the **OMDB API**. Search for movies and series, filter by type, and page through results. Live Link - https://react-movie-search-cine.netlify.app/
 
 ## Features
 
