@@ -37,7 +37,3 @@ src/
   pages/SearchResult.jsx    Results grid, type dropdown, error + empty states
 ```
 
-## Known gaps
-
-- Movie details page (`/movie/:id`) is not built yet; `getMovieDetails()` is ready for it.
-- Home, TV Shows, Anime and Favourites pages still use the TMDB API.
